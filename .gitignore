@@ -1,0 +1,8 @@
+# Só o site vai para o repositório público: index.html e a pasta img/.
+# Tudo o mais nesta pasta fica apenas no computador.
+# Para publicar um arquivo ou pasta novos, acrescente uma linha "!/nome" abaixo.
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/img/
